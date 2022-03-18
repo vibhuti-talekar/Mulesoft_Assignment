@@ -1,6 +1,10 @@
 # Mulesoft_Assignment
 Mulesoft Assignment 1 based on Sqlite and JDBC drivers.This is a CLI Application.
 
+Main.java------>Is used to create the database
+
+movies.java---->Used to connect,create table,insert and display data.
+
 <h2>How to Run the Application</h2>
 
 1.Create a folder sqlite in the C drive.Download the Sqlite tools and extract them in the sqlite folder.
